@@ -1,3 +1,13 @@
+---
+title: HITL Face Recognition Pipeline
+emoji: 👤
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+app_file: gradio_app.py
+pinned: false
+---
+
 # Human-in-the-Loop (HITL) Face Recognition Pipeline
 
 An end-to-end machine learning pipeline for **open-set face recognition** supporting **single/bulk image uploads**, **video frame extraction**, a **FastAPI REST API**, and a **Streamlit monitoring & retraining dashboard**. When the model encounters an unrecognized face, it deduplicates and clusters the unknown crops into a review queue, allowing a human operator to assign labels and retrain the classifier on demand.
