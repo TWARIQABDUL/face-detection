@@ -1,0 +1,15 @@
+insightface==0.7.3
+onnxruntime>=1.20.0
+opencv-python-headless==4.10.0.84
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+Pillow==10.4.0
+streamlit==1.39.0
+joblib==1.4.2
+matplotlib==3.10.9
+seaborn==0.13.2
+fastapi==0.115.5
+uvicorn==0.32.1
+python-multipart==0.0.17
+locust==2.32.2
