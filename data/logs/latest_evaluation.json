@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "total_test_samples": 7,
+  "sim_threshold": 0.55,
+  "accuracy": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "unknown_rejection_rate": "N/A (No Unknown folder)",
+  "false_acceptance_rate": "N/A",
+  "classification_report": "              precision    recall  f1-score   support\n\n     Ornella       1.00      1.00      1.00         4\n      Twariq       1.00      1.00      1.00         3\n\n    accuracy                           1.00         7\n   macro avg       1.00      1.00      1.00         7\nweighted avg       1.00      1.00      1.00         7\n",
+  "plots": {
+    "confusion_matrix": "data/logs/plots/confusion_matrix.png",
+    "similarity_distribution": "data/logs/plots/similarity_distribution.png",
+    "class_metrics": "data/logs/plots/class_metrics.png"
+  }
+}
