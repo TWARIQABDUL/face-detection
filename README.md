@@ -371,6 +371,3 @@ Potential areas for further development include:
 ---
 
 If you find this project useful, feel free to explore the repository or provide feedback through GitHub.
-
----
-AI usage: the read me file was rewriten with the help of Claude code 
