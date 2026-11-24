@@ -371,3 +371,7 @@ Potential areas for further development include:
 ---
 
 If you find this project useful, feel free to explore the repository or provide feedback through GitHub.
+
+---
+
+> **Note on AI Usage:** This README file was written and structured with the assistance of AI tools.
