@@ -8,7 +8,7 @@ When the model encounters an unrecognized face, it deduplicates and clusters unk
 
 - **Live Application:** [Open the deployed application](https://face-perm-app.delightfulfield-0631504c.uaenorth.azurecontainerapps.io/)
 - **GitHub Repository:** [View the source code](https://github.com/TWARIQABDUL/face-detection)
-- **YouTube Video Link:** [View the source code](https://youtu.be/Py9OD-58GdI)
+- **YouTube Video Link:** [View the Demo Vide](https://youtu.be/Py9OD-58GdI)
 
 ## System Architecture
 
