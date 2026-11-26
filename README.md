@@ -6,8 +6,9 @@ When the model encounters an unrecognized face, it deduplicates and clusters unk
 
 ## Live Links & Demo
 
-- **Live Application:** [Open the deployed application](https://face-recognition-app.politesea-e9169312.uaenorth.azurecontainerapps.io/)
+- **Live Application:** [Open the deployed application](https://face-perm-app.delightfulfield-0631504c.uaenorth.azurecontainerapps.io/)
 - **GitHub Repository:** [View the source code](https://github.com/TWARIQABDUL/face-detection)
+- **YouTube Video Link:** [View the source code](https://youtu.be/Py9OD-58GdI)
 
 ## System Architecture
 
@@ -289,7 +290,7 @@ The production container includes:
 - InsightFace `buffalo_l` ONNX model weights
 - Trained `models/classifier.pkl` artifact
 
-**Live application:** [https://face-recognition-app.politesea-e9169312.uaenorth.azurecontainerapps.io/](https://face-recognition-app.politesea-e9169312.uaenorth.azurecontainerapps.io/)
+**Live application:** [https://face-perm-app.delightfulfield-0631504c.uaenorth.azurecontainerapps.io/](https://face-perm-app.delightfulfield-0631504c.uaenorth.azurecontainerapps.io/)
 
 ## Load Testing with Locust
 
